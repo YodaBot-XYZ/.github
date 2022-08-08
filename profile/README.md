@@ -38,8 +38,10 @@ YodaBot also makes an Open API *(soon)* that is accessible to anyone (public) an
 <li>Chat (assistant-to-human style)</li>
 <li>Grammar Checker/Correction (Auto-correct)</li>
 <li>Study Notes (Generate study notes from a topic)</li>
-
+</ul>
+<br>
 And more!
+</details>
 
 ---
 
