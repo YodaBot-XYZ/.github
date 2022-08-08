@@ -3,29 +3,41 @@ I love baby yoda!
 
 ---
 
+<details open>
+<summary>Yoda Tools/Utilities</summary>
+<br>
 YodaBot makes tools/utilities (built in Python) to help you develop things way more easier such as:
-- [Twemoji Parser](https://github.com/YodaBotOS/twemoji-parser)
-- [Dalle·2](https://github.com/YodaBotOS/dalle2-python)
-- [Input Tools (Google)](https://github.com/YodaBotOS/input-tools)
-- [Perspective API (Google)](https://github.com/YodaBotOS/perspective-api)
-- [SVG to PNG](https://github.com/YodaBotOS/svg-2-png)
-- [LyricsFinder](https://github.com/YodaBotOS/lyrics-finder)
-- [Shazam (Song Recognizer)](https://github.com/YodaBotOS/song-detect)
+<br>
+<ul>
+<li><a href="https://github.com/YodaBotOS/twemoji-parser">Twemoji Parser</a></li>
+<li><a href="https://github.com/YodaBotOS/dalle2-python">Dalle·2</a></li>
+<li><a href="https://github.com/YodaBotOS/input-tools">Input Tools (Google)</a>
+<li><a href="https://github.com/YodaBotOS/perspective-api">Perspective API (Google)</a>
+<li><a href="https://github.com/YodaBotOS/svg-2-png">SVG to PNG</a>
+<li><a href="https://github.com/YodaBotOS/lyrics-finder">LyricsFinder</a>
+<li><a href="https://github.com/YodaBotOS/song-detect">Shazam (Song Recognizer)</a>
+</ul>
+</details>
 
 ---
 
+<details open>
+<summary>Yoda Open/Public API</summary>
+<br>
 YodaBot also makes an Open API *(soon)* that is accessible to anyone (public) and [Open Sourced](https://github.com/YodaBotOS/API) with the following features:
-- Twemoji Parser
-- Input Tools
-- Sentiment (Perspective API)
-- SVG to PNG
-- Lyrics Finder *(courtesy of OpenRobot API, now archived and discontinued)*
-- Shazam (Song Recognizer)
-- Translate
-- OCR (Read text from images)
-- Chat (assistant-to-human style)
-- Grammar Checker/Correction (Auto-correct)
-- Study Notes (Generate study notes from a topic)
+<br>
+<ul>
+<li>Twemoji Parser</li>
+<li>Input Tools</li>
+<li>Sentiment (Perspective API)</li>
+<li>SVG to PNG</li>
+<li>Lyrics Finder *(courtesy of OpenRobot API, now archived and discontinued)*</li>
+<li>Shazam (Song Recognizer)</li>
+<li>Translate</li>
+<li>OCR (Read text from images)</li>
+<li>Chat (assistant-to-human style)</li>
+<li>Grammar Checker/Correction (Auto-correct)</li>
+<li>Study Notes (Generate study notes from a topic)</li>
 
 And more!
 
