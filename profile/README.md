@@ -3,6 +3,10 @@ I love baby yoda!
 
 ---
 
+The source code for our bot can be found at [@YodaBotOS/YodaBot](https://github.com/YodaBotOS/YodaBot)
+
+---
+
 <details open>
 <summary>Yoda Tools/Utilities</summary>
 <br>
