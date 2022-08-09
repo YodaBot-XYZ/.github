@@ -3,7 +3,9 @@ I love baby yoda!
 
 ---
 
-The source code for our bot can be found at [@YodaBotOS/YodaBot](https://github.com/YodaBotOS/YodaBot)
+We have a Discord Bot available for Public Use!
+
+The source code for our discord bot can be found at [@YodaBotOS/YodaBot](https://github.com/YodaBotOS/YodaBot)
 
 ---
 
