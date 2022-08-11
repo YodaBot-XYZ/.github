@@ -30,7 +30,7 @@ YodaBot makes tools/utilities (built in Python) to help you develop things way m
 <details open>
 <summary>Yoda Open/Public API</summary>
 <br>
-YodaBot also makes an Open API *(soon)* that is accessible to anyone (public) and <a href="https://github.com/YodaBotOS/API">Open Sourced</a> with the following features:
+YodaBot also makes an Open API <i>(soon)</i> that is accessible to anyone (public) and <a href="https://github.com/YodaBotOS/API">Open Sourced</a> with the following features:
 <br>
 <ul>
 <li>Twemoji Parser</li>
