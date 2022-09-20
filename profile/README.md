@@ -51,4 +51,4 @@ And more!
 
 ---
 
-*Note: all the stuff here is still mostly in our todo list.
+*Note: all the stuff here is still mostly in our todo-list/roadmap for the future.
