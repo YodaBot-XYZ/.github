@@ -16,7 +16,6 @@ YodaBot makes tools/utilities (built in Python) to help you develop things way m
 <br>
 <ul>
 <li><a href="https://github.com/YodaBotOS/twemoji-parser">Twemoji Parser</a></li>
-<li><a href="https://github.com/YodaBotOS/dalle2-python">Dalle·2</a></li>
 <li><a href="https://github.com/YodaBotOS/input-tools">Input Tools (Google)</a>
 <li><a href="https://github.com/YodaBotOS/perspective-api">Perspective API (Google)</a>
 <li><a href="https://github.com/YodaBotOS/lyrics-finder">LyricsFinder</a>
