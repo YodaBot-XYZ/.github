@@ -43,7 +43,7 @@ YodaBot also makes an Open API that is accessible to anyone (public without any 
 <li>Study Notes (Generate study notes from a topic)</li>
 </ul>
 <br>
-And more! Look at the [documentation](https://api.yodabot.xyz/docs) for a list of features that are currently available!
+And more! Look at the <a href="https://api.yodabot.xyz/docs">documentation</a> for a list of features that are currently available!
 </details>
 
 ---
